@@ -21,7 +21,7 @@ const routes = [
         }
         ,
         {
-          path: 'carts',
+          path: 'cart',
           element: <CartPage/>
         },
         {
